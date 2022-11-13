@@ -1,4 +1,4 @@
-# ONNX-PackNet-SfM
+# ONNX SCDeth Monocular Depth Estimation
 Python scripts for performing monocular depth estimation using the SC_Depth model in ONNX
 
 ![SC_Depth monocular depth estimation ONNX](https://github.com/ibaiGorordo/ONNX-SCDepth-Monocular-Depth-Estimation/blob/main/doc/img/out.png)
