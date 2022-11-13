@@ -1,0 +1,4 @@
+opencv-python
+imread-from-url
+cap-from-youtube
+onnxruntime-gpu
